@@ -18,6 +18,19 @@ h1 {
   float: left;
   text-align: center;
 }
+.three_span {
+  width: 33%;
+  float: left;
+  text-align: center;
+}
+.table_tbody_box{
+    overflow-y:scroll;
+    overflow-x:none
+}
+.tableField {
+    border:1px solid #000;
+    height: 60vh;
+}
 
 textarea {
   width: 86%;
